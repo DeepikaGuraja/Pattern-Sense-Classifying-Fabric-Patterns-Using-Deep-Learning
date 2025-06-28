@@ -32,7 +32,7 @@
 ## ✅ Model Performance
 - **Training Accuracy:** 95%
 - **Validation Accuracy:** 93%
-- **Fine-tuning Graph:** ![Accuracy over Epochs](./models/model_architecture.png)
+
 
 ---
 
