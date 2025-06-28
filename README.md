@@ -1,6 +1,8 @@
 # 🧵 Pattern Sense: Classifying Fabric Patterns Using Deep Learning
 
 **Pattern Sense** is a deep learning–powered system to automatically classify fabric patterns (e.g., floral, geometric, abstract, striped). It helps textile manufacturers, designers, and retailers automate pattern identification and improve quality control.
+- Video Demo Link:
+- https://drive.google.com/file/d/1uaQozk5AtaBQI5Sy9x4-_QV01BDELdB9/view?usp=sharinghttps://drive.google.com/file/d/1uaQozk5AtaBQI5Sy9x4-_QV01BDELdB9/view?usp=sharing
 
 ---
 
