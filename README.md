@@ -36,9 +36,3 @@
 
 ---
 
-## 💻 Setup
-```bash
-git clone https://github.com/yourusername/Pattern-Sense.git
-cd Pattern-Sense
-pip install -r requirements.txt
-python app/app.py
